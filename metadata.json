@@ -1,0 +1,6 @@
+{
+  "name": "AI Podcast Studio",
+  "description": "Full-featured AI Podcast Creator & Generative Studio with dual modes, character casting, relationship maps, natural scripting, voice tuning, and audio orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
